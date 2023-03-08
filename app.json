@@ -1,12 +1,12 @@
 {
    "name": "Ban All Bot",
    "description": "https://telegra.ph/file/1f63de6e3ce65ef6b9f00.jpg",
-   "repository": "https://github.com/MrRizoel/BanAllBot",
+   "repository": "https://github.com/amrutaop/BanAllBot",
    "logo": "",
    "keywords": [
         "python",
         "telegram"
-  "repository": "https://github.com/MrRizoel/BanallBot",
+  "repository": "https://github.com/amrutaop/BanallBot",
   "website": "https://github.com/MrRizoel",
   "success_url": "https://t.me/TheRiZoeL",
   "env": {
